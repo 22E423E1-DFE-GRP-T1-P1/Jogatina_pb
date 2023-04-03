@@ -1,0 +1,64 @@
+[
+    
+        {
+            "id":1,
+            "colocacao": 1,
+            "titulo": "COD Modern Warfare II",
+            "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202205/2800/iQGgKYUg9YwjPVNM0kE8jeRN.jpg"
+        },
+        {
+            "id":2,
+            "colocacao": 2,
+            "titulo": "Elden Ring",
+            "imagem": "https://img.hype.games/cdn/9edf816d-5625-45d2-9ef6-8b2ae65bb7eaCover_Elder%20Ring-600.png"
+        },
+        {
+            "id":3,
+            "colocacao": 3,
+            "titulo": "Madden NFL 23",
+            "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2810/d44ec02d8b99c047bf238688580a2868388f1b2e28b2a37b.png"
+        },
+        {   "id":4,
+            "colocacao": 4,
+            "titulo": "God of War Ragnarok",
+            "imagem": "https://cdn.jornaldebrasilia.com.br/wp-content/uploads/2022/11/10160407/GOW.jpg"
+        },
+        {
+            "id":5,
+            "colocacao": 5,
+            "titulo": "LEGO Star Wars",
+            "imagem": "https://assets.xboxservices.com/assets/87/0d/870dbba7-a3fc-452b-8373-1e1f730ec145.jpg?n=Lego-Starwars-Skywalker-Saga_GLP-Page-Hero-1084_1920x1080.jpg"
+        },
+        {
+            "id":6,
+            "colocacao": 6,
+            "titulo": "Pokemon: Scarlet/Violet",
+            "imagem": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70070000014505/806672da8ad9d463d1f9b5bb1b6ac4afb04cdf2e0b60c46902fbde4afb565839"
+        },
+        {
+            "id":7,
+            "colocacao": 7,
+            "titulo": "FIFA 23",
+            "imagem": "https://cdn1.epicgames.com/offer/f5deacee017b4b109476933f7dd2edbd/EGS_EASPORTSFIFA23StandardEdition_EACanada_S1_2560x1440-aaf9c5273c27a485f2cce8cb7e804f5c"
+        },
+        {
+            "id":8,
+            "colocacao": 8,
+            "titulo": "Pokemon Legends: Arceus",
+            "imagem": "https://universonerd.net/portal/wp-content/uploads/2022/02/Pokemon-Legends-Arceus-CAPA.jpg"
+        },
+        {
+            "id":9,
+            "colocacao": 9,
+            "titulo": "Horizon Forbidden West",
+            "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202107/3100/DLgLjXPNm5aX4dJ3qvXOCKW4.jpg"
+        },
+        {
+            "id":10,
+            "colocacao": 10,
+            "titulo": "MLB The Show 22",
+            "imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202201/2818/UkxS8YtE03ngMF95hyQyHpWk.png"
+        }                                                                 
+        
+        
+]
